@@ -1,0 +1,10 @@
+{
+  "name": "ProseForge",
+  "version": "1.0.0",
+  "description": "A social media for writer and reader",
+  "main": "index.js",
+  "repository": "https://github.com/Dulinniel/ProseForge-web",
+  "author": "Dulinniel <nightingalenervous@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
